@@ -39,13 +39,14 @@ STUM/
 ├── stum_patches/
 │   └── non_algorithmic_fixes.diff
 └── stum_version.txt
+└── requirements.txt
 ```
 
 ### Environment
-- Python == 3.10.0
-- PyTorch == 2.9.1
-- Device: MPS (Apple Silicon) 
-- Conda environment exported in `environment.yml`
+- Python: 3.10.0
+- Device: MPS (Apple Silicon)
+- Conda environment: exported in `environment.yml`
+- Python dependencies: listed in `requirements.txt`
 
 ### Dataset
 PEMS-BAY 07
@@ -69,6 +70,7 @@ PEMS-BAY 07
 | stum_stae  |           |          |          |
 | stum_stgcn   |           |           |           |
 | stum_stid  |           |          |          |
+
 
 
 
