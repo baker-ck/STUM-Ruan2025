@@ -1,0 +1,3 @@
+Repository: https://github.com/baker-ck/STUM
+Commit: <>
+Date: 2025-12-23
