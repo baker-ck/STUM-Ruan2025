@@ -39,7 +39,7 @@ STUM/
 - Python dependencies: listed in `requirements.txt`
 
 ### Dataset
-PEMS-BAY 07
+PEMS07/2017
 
 ### Results
 | Trained baseline | Average MAE | Average RMSE | Average MAPE |
@@ -60,6 +60,7 @@ PEMS-BAY 07
 | stum_stae  |           |          |          |
 | stum_stgcn   |           |           |           |
 | stum_stid  |           |          |          |
+
 
 
 
